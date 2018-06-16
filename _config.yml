@@ -1,0 +1,62 @@
+typography_spectrum: 0.6936473274369271
+content_rating:
+  adult: false
+color:
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+  brandStrength: 0.03936013478601333
+  lightness: 0.08883695952096346
+  saturation: 0.37291732796882787
+  rhythmicContrast: 0.5996964562486967
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.8911095577011826
+analytics:
+  facebook: ''
+  google: UA-111702110-1
+  twitter: ''
+author:
+  name: Elucidare Team
+  url: 'https://elucidare.digital'
+  email: contact@elucidare.digital
+name: ΞLUCIDɅRΞ
+navigation:
+  - name: investors
+    id: 7d735a16-c75d-423a-8ee2-0d37641d212f
+    type: content
+  - name: nogrey app
+    url: 'http://nogrey.club'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b274d66-e3b5-487b-83ff-b8914cd95dbc.ico
+title: ΞLUCIDɅRΞ
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab24da72-f62a-4f51-9c75-8b26cd6b98e6.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab24da72-f62a-4f51-9c75-8b26cd6b98e6.jpg
+    metadata:
+      '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Illuminating Digital Experince
+purpose: []
+github: true
